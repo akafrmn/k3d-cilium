@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "akafrmn-github",
+        "projectKey": "akafrmn_k3d-cilium"
+    }
+}
